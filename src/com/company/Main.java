@@ -10,7 +10,6 @@ public class Main {
 
         for (int i = 0; i < heroes.length; i++) {
             heroes[i].applySuperAbility();
-
         }
     }
 }
